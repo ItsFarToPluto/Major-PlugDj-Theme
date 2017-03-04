@@ -2,7 +2,7 @@
     "room": "♫ Major (ENG - RAP +More) ♫",
     "author": "Designed & Created By YouCannotHide",
     "icon": "",
-    "css": "https://cdn.rawgit.com/YouCannotHide/-Major-ENG---RAP-More-Theme/master/MajorTheme.css",
+    "css": "https://cdn.rawgit.com/YouCannotHide/-Major-ENG---RAP-More-Theme/master/MajorsTheme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -16,9 +16,9 @@
     "ccc": {
         "admin": null,
         "ambassador": "#FF8C00",
-        "host": "#990000",
-        "cohost": "#990000",
-        "manager": "#ff0000",
+        "host": "#DA0000",
+        "cohost": "#DA0000",
+        "manager": "#FF1818",
         "bouncer": "#f92f2f",
         "rdj": "#f92f2f",
         "subscriber": null,
